@@ -1,4 +1,4 @@
-# first-project
+# Blog Post Project
 
 ### Project Output
 Open index.html to view project output.
