@@ -1,5 +1,5 @@
 # first-project
-Open index.html to view project output. <br />
+## Open index.html to view project output. <br />
 <br />
 This project is an introduction to HTML and CSS including: <br />
 * Creating headings, paragraphs, and lists. 
